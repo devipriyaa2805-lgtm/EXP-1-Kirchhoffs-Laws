@@ -11,9 +11,9 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit using Proteus s
 
 | S.No. | Components | Range / Value | Quantity |
 |------:|------------|---------------|---------:|
-| 1 | Resistor | 10 Ω, 20 Ω, 30 Ω, 50 Ω | 4 |
-| 2 | Voltmeter (DC) | As required | 3 |
-| 3 | Ammeter (DC) | As required | 4 |
+| 1 | Resistor | 10 Ω, 20 Ω, 30 Ω, 50 Ω | As required |
+| 2 | Voltmeter (DC) | 0–30 V | 3 |
+| 3 | Ammeter (DC) | 0–5 A | 4 |
 | 4 | DC Voltage Source | 0–100 V | 2 |
 | 5 | Connecting Wires | As required | As required |
 | 6 | Proteus 8 Professional | Simulation Software | 1 |
