@@ -44,3 +44,25 @@ Mathematically,
 
 Therefore, the total current entering a junction is equal to the total
 current leaving the junction.
+
+## PROCEDURE
+
+### a. KVL
+
+1. Construct the circuit as shown in the KVL circuit diagram using Proteus software.
+2. Set the DC voltage source to the required input voltage.
+3. Check the connections of the ammeter and voltmeters.
+4. Run the simulation.
+5. Record the current shown by the ammeter.
+6. Record the voltage across each resistor using the respective voltmeters.
+7. Verify KVL by comparing the source voltage with the sum of the voltage drops across the resistors.
+
+### b. KCL
+
+1. Construct the circuit as shown in the KCL circuit diagram using Proteus software.
+2. Set the DC voltage source to the required input voltage.
+3. Check the connections of all the ammeters at the respective branches.
+4. Run the simulation.
+5. Record the current entering the junction.
+6. Record the currents in the individual branches.
+7. Verify KCL by comparing the incoming current with the sum of the outgoing branch currents.
