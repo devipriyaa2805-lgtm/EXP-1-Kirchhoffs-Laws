@@ -66,3 +66,43 @@ current leaving the junction.
 5. Record the current entering the junction.
 6. Record the currents in the individual branches.
 7. Verify KCL by comparing the incoming current with the sum of the outgoing branch currents.
+
+## CIRCUIT DIAGRAM
+
+### KVL Circuit
+
+<img width="1098" height="701" alt="KVL Circuit" src="https://github.com/user-attachments/assets/12b6beac-8901-4467-834a-6014c8c0082a" />
+
+### KCL Circuit
+
+<img width="1169" height="787" alt="KCL Circuit" src="https://github.com/user-attachments/assets/bd3d0626-12f0-426a-8233-85173d5430da" />
+
+## OUTPUT
+
+### KVL Simulation Output
+
+<img width="1128" height="692" alt="KVL Simulation" src="https://github.com/user-attachments/assets/5ff1101c-8321-4c6e-8807-ce6f8b570009" />
+
+### KCL Simulation Output
+
+<img width="1168" height="768" alt="KCL Simulation" src="https://github.com/user-attachments/assets/84e76f15-f41b-4f3d-ac24-ad11e662fd8f" />
+
+## TABULATION
+
+### KVL
+
+| S.No. | Input Voltage (V) | Current (A) | V₁ (V) | V₂ (V) | V₃ (V) | V₁ + V₂ + V₃ (V) |
+|------:|------------------:|------------:|-------:|-------:|-------:|-------------------:|
+| 1 | 50 | 0.50 | 25 | 15 | 10 | 50 |
+
+### KCL
+
+| S.No. | Input Voltage (V) | I₁ (A) | I₂ (A) | I₃ (A) | I₄ (A) | I₂ + I₃ + I₄ (A) |
+|------:|------------------:|-------:|-------:|-------:|-------:|-------------------:|
+| 1 | 100 | 2.94 | 0.59 | 1.18 | 1.18 | 2.95 |
+
+## RESULT
+
+Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
+
+
