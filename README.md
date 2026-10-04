@@ -17,3 +17,30 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit using Proteus s
 | 4 | DC Voltage Source | 0–100 V | 2 |
 | 5 | Connecting Wires | As required | As required |
 | 6 | Proteus 8 Professional | Simulation Software | 1 |
+
+## THEORY
+
+### Kirchhoff's Voltage Law (KVL)
+
+Kirchhoff's Voltage Law states that the algebraic sum of all voltage
+rises and voltage drops around any closed loop in an electrical circuit
+is zero.
+
+Mathematically,
+
+ΣV = 0
+
+Therefore, the sum of the voltage supplied by the source and the voltage
+drops across the resistors in a closed loop is zero.
+
+### Kirchhoff's Current Law (KCL)
+
+Kirchhoff's Current Law states that the algebraic sum of currents at any
+junction in an electrical circuit is zero.
+
+Mathematically,
+
+ΣI = 0
+
+Therefore, the total current entering a junction is equal to the total
+current leaving the junction.
