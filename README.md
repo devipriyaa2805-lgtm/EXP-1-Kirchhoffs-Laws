@@ -71,7 +71,7 @@ current leaving the junction.
 
 ### KVL Circuit
 
-<img width="1098" height="701" alt="KVL Circuit" src="https://github.com/user-attachments/assets/12b6beac-8901-4467-834a-6014c8c0082a" />
+<img width="1920" height="1080" alt="KVL Circuit" src="https://github.com/user-attachments/assets/04f3a60d-43c4-4aa8-b90e-2d848632275a" />
 
 ### KCL Circuit
 
@@ -81,7 +81,7 @@ current leaving the junction.
 
 ### KVL Simulation Output
 
-<img width="1128" height="692" alt="KVL Simulation" src="https://github.com/user-attachments/assets/5ff1101c-8321-4c6e-8807-ce6f8b570009" />
+<img width="1920" height="1080" alt="KVL Simulation" src="https://github.com/user-attachments/assets/2095af48-b3e7-4c8c-bc3a-b40d9333b30b" />
 
 ### KCL Simulation Output
 
