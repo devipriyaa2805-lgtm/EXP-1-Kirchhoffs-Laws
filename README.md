@@ -77,6 +77,16 @@ current leaving the junction.
 
 <img width="1169" height="787" alt="KCL Circuit" src="https://github.com/user-attachments/assets/bd3d0626-12f0-426a-8233-85173d5430da" />
 
+## CALCULATIONS
+
+### 1. Kirchhoff's Voltage Law (KVL)
+
+<img width="1275" height="1600" alt="image" src="https://github.com/user-attachments/assets/a2e3c4e7-6bb1-49eb-a5e3-28c45b27149e" />
+
+### 2. Kirchhoff's Current Law (KCL)
+
+<img width="1182" height="1600" alt="image" src="https://github.com/user-attachments/assets/f0c5a66a-e9ec-474f-8441-db9698e6c577" />
+
 ## OUTPUT
 
 ### KVL Simulation Output
@@ -89,17 +99,17 @@ current leaving the junction.
 
 ## TABULATION
 
-### KVL
+### 1. Kirchhoff's Voltage Law (KVL)
 
 | S.No. | Input Voltage (V) | Current (A) | V₁ (V) | V₂ (V) | V₃ (V) | V₁ + V₂ + V₃ (V) |
 |------:|------------------:|------------:|-------:|-------:|-------:|-------------------:|
-| 1 | 50 | 0.50 | 25 | 15 | 10 | 50 |
+| 1 | 60 | 1.00 | 30 | 20 | 10 | 60 |
 
-### KCL
+### 2. Kirchhoff's Current Law (KCL)
 
 | S.No. | Input Voltage (V) | I₁ (A) | I₂ (A) | I₃ (A) | I₄ (A) | I₂ + I₃ + I₄ (A) |
 |------:|------------------:|-------:|-------:|-------:|-------:|-------------------:|
-| 1 | 100 | 2.94 | 0.59 | 1.18 | 1.18 | 2.95 |
+| 1 | 100 | 2.941 | 0.588 | 1.176 | 1.176 | 2.940 |
 
 ## RESULT
 
